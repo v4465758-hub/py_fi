@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Desafío de Programación - Movimiento Armónico Simple (MAS)")
+st.title("Desafío de Programación for Ja1ros - Movimiento Armónico Simple (MAS)")
 st.markdown("""
 Aplicación interactiva para explorar el Movimiento Armónico Simple (MAS)
 y sus variantes: masa–resorte, péndulo simple, efecto de parámetros
